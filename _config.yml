@@ -10,7 +10,7 @@ description: "Python课程网站"
 keywords: Python,AI,Machine-Learning,Deep-Learning
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
+side_bar_repo_limit: 2
 repository: ex172000/python
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
@@ -54,28 +54,12 @@ navs:
     label: 首页
 
   -
-    href: /categories/
-    label: 分类
-
-#   -
-#     href: /archives/
-#     label: 归档
-
-#   -
-#     href: /open-source/
-#     label: 开源
-
-  -
     href: /wiki/
     label: 维基
 
   -
     href: /links/
     label: 链接
-
-  -
-    href: /about/
-    label: 关于
 
 # ---------------- #
 #       RSS        #
