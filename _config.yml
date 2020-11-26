@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ex172000.github.io/python/
+url: https://ex172000.github.io/python
 date_format: "ordinal"
 title: "Python: Gateway to AI"
 subtitle: "Python：通向数据分析与AI之路"
