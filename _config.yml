@@ -4,7 +4,7 @@
 baseurl:
 url: https://ex172000.github.io/python
 date_format: "ordinal"
-title: "Python: Gateway to AI"
+title: "Python"
 subtitle: "Python：通向数据分析与AI之路"
 description: "Python课程网站"
 keywords: Python,AI,Machine-Learning,Deep-Learning
@@ -86,7 +86,6 @@ plugins:
     - jekyll-feed
     - jemoji
 #     - jekyll-mentions
-repository: ex172000/class
 collections:
     wiki:
         output: true
