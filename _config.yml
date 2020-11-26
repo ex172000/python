@@ -86,6 +86,7 @@ plugins:
     - jekyll-feed
     - jemoji
 #     - jekyll-mentions
+repository: ex172000/class
 collections:
     wiki:
         output: true
