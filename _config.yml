@@ -2,9 +2,9 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ex172000.github.io/python
+url: https://ex172000.github.io/python/
 date_format: "ordinal"
-title: Python: Gateway to AI
+title: "Python: Gateway to AI"
 subtitle: "Python：通向数据分析与AI之路"
 description: "Python课程网站"
 keywords: Python,AI,Machine-Learning,Deep-Learning
@@ -81,7 +81,6 @@ permalink: /:year/:month/:day/:title/
 plugins:
     - jekyll-github-metadata
     - rouge
-#     - jekyll-html-pipeline
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
