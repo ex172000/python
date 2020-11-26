@@ -12,7 +12,7 @@ keywords: Python, AI
   - Python的历史与背景
   - 为什么我们要学习Python
   - Python基本语法
-  - 用Python来制作好看的图标
+  - 用Python来制作好看的图表
   - 用Python来分析北上广深的房价
 
 ##### 时间
